@@ -67,6 +67,32 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+<a href="https://github.com/Pranav-Sharma-Code/Scribble-Clone">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranav-Sharma-Code&repo=Scribble-Clone&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Pranav-Sharma-Code/Task-Manager">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranav-Sharma-Code&repo=Task-Manager&theme=tokyonight" />
+</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Pranav-Sharma-Code/BookVyapar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranav-Sharma-Code&repo=BookVyapar&theme=tokyonight&hide_border=false" />
+  </a>
+
+  <a href="https://github.com/Pranav-Sharma-Code/healtvault">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranav-Sharma-Code&repo=healtvault&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
