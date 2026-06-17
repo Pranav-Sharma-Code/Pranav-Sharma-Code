@@ -93,15 +93,10 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranav-Sharma-Code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Sharma-Code&theme=tokyonight&hide_border=true" />
-</p>
-
----
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/Pranav-Sharma-Code/Pranav-Sharma-Code/output/github-contribution-grid-snake-dark.svg" />
+</p> -->
 
 ## ⚡ Fun Fact
 
