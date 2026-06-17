@@ -17,6 +17,8 @@ jobs:
         with:
           github_user_name: Pranav-Sharma-Code
           outputs: |
+            dist/ocean.svg?color_snake=#39d353
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake
