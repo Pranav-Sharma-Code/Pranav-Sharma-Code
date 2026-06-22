@@ -92,7 +92,9 @@
 </p>
 
 ---
+<h2>📈 GitHub Activity Graph</h2>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Sharma-Code&theme=github-dark" />
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Pranav-Sharma-Code/Pranav-Sharma-Code/output/github-contribution-grid-snake-dark.svg" />
